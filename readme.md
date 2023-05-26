@@ -1,7 +1,6 @@
 ****
 *  **Class**     :  CSC 2312 Fall 2022
-*  **Name        : John Greene**                                 
-*  **HW#**       :  7               
+*  **Name        : John Greene**                                       
 *  **Due Date**  :  December 17, 2022
 ****
 # Read Me
