@@ -1,0 +1,77 @@
+Cart overflow!: Yesterday Product ID: 1 Max Items: 7
+
+Customer Name: John Greene
+Email: me@gmail.com
+Balance: $156.65
+Testing Cart
+============
+
+Cart Owner: John Greene
+
+[Movie]
+Product Name: Aliens
+Product Price: $15.3
+Product ID: 2
+Product review: 9.8
+The director is: Ridley Scott
+The rating is: R
+The release year is: 1986
+The runtime is: 154 minutes
+
+[Movie]
+Product Name: The Lord of the Rings: The Fellowship of the Ring
+Product Price: $15.3
+Product ID: 3
+Product review: 10
+The director is: Peter Jackson
+The rating is: PG-13
+The release year is: 2001
+The runtime is: 178 minutes
+
+[Movie]
+Product Name: Sound of Music
+Product Price: $22
+Product ID: 4
+Product review: 9.2
+The director is: Robert wise
+The rating is: G
+The release year is: 1965
+The runtime is: 175 minutes
+
+[Music]
+Product Name: We are the World
+Product Price: $13.75
+Product Type: 5
+Product review: 9.1
+The singer is: Michael Jackson
+The genre is: Country
+
+[Ebook]
+Product Name: The Old Man and The Sea
+Product Price: 8.3
+Product ID: 6
+Product review: 9.5
+The author is: Ernest Hemmingway
+The number of pages is: 127
+
+[Movie]
+Product Name: Star Wars
+Product Price: $22
+Product ID: 7
+Product review: 8.5
+The director is: George Lucas
+The rating is: PG
+The release year is: 1977
+The runtime is: 120 minutes
+
+[Game]
+Product Name: Halo
+Product Price: $60
+Product ID: 8
+Product review: 0.5
+The console is: XBoX
+
+===== Summary of Purchase ======
+Total number of purchases: 7
+Total purchasing amount: $156.65
+Average cost: $22.3786
