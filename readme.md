@@ -1,12 +1,11 @@
 ****
 *  **Name        : John Greene**                                       
-*  **Due Date**  :  December 17, 2022
 ****
 # Read Me
 
 ## Description of the program 
 
-This program contains a Base abstract class that has multiple derived classes used to virtual simulate a online shopping cart. There is the abillity to add/subtract items to a cart, determine the total cost/average cost of cart and to give information on the customer and the products within the customers cart.
+This program contains a Base abstract class that has multiple derived classes used to simulate a virtual online shopping cart. There is the abillity to add/subtract items to a cart, determine the total cost/average cost of cart and to give information on the customer and the products within the customers cart.
 
 
 ##  Source files
