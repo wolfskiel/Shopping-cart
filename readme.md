@@ -10,7 +10,7 @@ This program contains a Base abstract class that has multiple derived classes us
 
 ##  Source files
 - ***main.cpp***
-  main.cpp is in REPL it drives the program.
+  main.cpp drives the program.
 - ***Product.hpp***
    Contains the a typdef prod_id_t set to int data type outside of the class definition and a structure NameType containg a first and last name string. Class contains private a public member variables and functions notably 2 pure virtual functions.
 - ***Product.cpp***
